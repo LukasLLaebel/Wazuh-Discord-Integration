@@ -35,7 +35,7 @@ This project provides an integration between [Wazuh](https://wazuh.com/), an ope
 - A Discord Webhook URL (for the channel where you want alerts to be sent).
 
 ## Installation
-### <span style="color: red;">--- Guide NOT DONE ---
+### <span style="color: red;">--- Guide NOT DONE ---</span>
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/LukasLLaebel/wazuh-discord-integration.git
@@ -82,9 +82,6 @@ For any inquiries or support, reach out to `owner@lukasleander.dk`.
 
 - [Wazuh](https://wazuh.com/) for providing a robust security monitoring platform.
 - [Discord](https://discord.com/) for their powerful and flexible communication platform.
-/wazuh-discord-integration.git
-    cd wazuh-discord-integration
-    ```
 
 2. **Install Dependencies:**
     Ensure you have Python and `pip` installed. Then, install the required Python packages:
