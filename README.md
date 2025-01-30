@@ -74,10 +74,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or support, reach out to `owner@lukasleander.dk`.
-
 ## Acknowledgements
 
 - [Wazuh](https://wazuh.com/) for providing a robust security monitoring platform.
@@ -124,8 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, reach out to `your_email@example.com`.
-
+For any inquiries or support, reach out to `owner@lukasleander.dk`.
 ## Acknowledgements
 
 - [Wazuh](https://wazuh.com/) for providing a robust security monitoring platform.
